@@ -17,7 +17,6 @@ com\Servicios\HogarExpert\Repository\IUsuarioRepositorio.class
 com\Servicios\HogarExpert\Controller\DemoRest.class
 com\Servicios\HogarExpert\Service\IComentarioServicio.class
 com\Servicios\HogarExpert\Repository\ITrabajoRepositorio.class
-.netbeans_automatic_build
 com\Servicios\HogarExpert\Controller\ImagenControlador.class
 com\Servicios\HogarExpert\Entity\TokenInfo.class
 com\Servicios\HogarExpert\Service\IImagenServicio.class
